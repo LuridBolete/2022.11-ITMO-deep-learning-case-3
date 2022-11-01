@@ -32,7 +32,7 @@
 
 ## Дополнительные сведения о проекте
 
-Данная работа является решением последнего задания курса "Нейронные сети и обработка текста" на [Stepik'е](https://stepik.org/lesson/251085/step/1/).  
+Данная работа является решением последнего задания курса "Нейронные сети и обработка текста" на [Stepik'е](https://stepik.org/lesson/251085/step/1).  
 Данное задание оформлено в виде соревнования на Kaggle [Arxiv Title Generation](https://www.kaggle.com/competitions/title-generation/).
 
 ---
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## ML-метрики
 
 Для определения эффективности решения были использованы:
-- [BLEU](https://en.wikipedia.org/wiki/BLEU/);
+- [BLEU](https://en.wikipedia.org/wiki/BLEU);
 - F-мера, по которой оценивается результат в соревновании Kaggle.
 
 ---
