@@ -19,7 +19,8 @@
 **- train.csv** - данные для обучения (135000 строк);  
 **- test.csv** - тестовые данные (1000 строк);  
 **- sample_submission.csv** - пример submission;  
-**- vocs.pkl** - файл, необходимый для генерации submission.
+**- vocs.pkl** - файл, необходимый для генерации submission.  
+Данные [файлы](https://www.kaggle.com/competitions/title-generation/data) размещены на странице соревнования.
 
 ---
 
